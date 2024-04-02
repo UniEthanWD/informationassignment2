@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-7.2006 -1.2861 -8.3473 3.7054 2.1383 -1.6936" area="45" targetId="cc6f9d842e754ae6b90de4c14fe5a29a" name="festo1_authoring_target-will" pathAuthoring="cc6f9d842e754ae6b90de4c14fe5a29a_authoring.glb" pathOcclusion="cc6f9d842e754ae6b90de4c14fe5a29a_occlusion.3dt" pathNavMesh="cc6f9d842e754ae6b90de4c14fe5a29a_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

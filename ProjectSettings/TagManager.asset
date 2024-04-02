@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Can
+  - g4a sun
+  - g4a secondlight
+  - g4a firstlight
+  - UIUpdateManager
+  - Align
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - rvMUSensor
+  - rvMUTransport
+  - rvSensor
+  - rvTransport
+  - rvMU
+  - rvSnapping
+  - rvSimDynamic
+  - rvSimStatic
+  - rvSelection
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

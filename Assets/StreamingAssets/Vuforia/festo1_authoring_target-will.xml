@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <AreaTarget name="festo1_authoring_target-will"/>
+  </Tracking>
+</QCARConfig>

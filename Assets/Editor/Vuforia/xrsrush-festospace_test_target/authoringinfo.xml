@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.2" bbox="-15.2801 -1.8939 -23.9647 -7.9446 0.3565 -14.3266" area="41" targetId="2157a51b368745938c96a98b00ec1c29" name="xrsrush-festospace_test_target" pathAuthoring="2157a51b368745938c96a98b00ec1c29_authoring.glb" pathOcclusion="2157a51b368745938c96a98b00ec1c29_occlusion.3dt" pathNavMesh="2157a51b368745938c96a98b00ec1c29_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
